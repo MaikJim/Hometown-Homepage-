@@ -1,2 +1,3 @@
 # Hometown-Homepage-
-it's a frist project of Frontend Carrer path from scrimba 
+
+it's a first project of Frontend Carrer path from scrimba
