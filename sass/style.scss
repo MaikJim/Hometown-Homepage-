@@ -1,4 +1,7 @@
-.hero {
-  width: 100%;
-  height: 250px;
-}
+/**Base**/
+@use './sass/base/reset';
+@use './base/base';
+
+/**Abstract**/
+@use './abstracts/variable';
+@use './abstracts/mixins';
